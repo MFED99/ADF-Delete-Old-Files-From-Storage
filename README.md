@@ -15,7 +15,7 @@ Pour ce projet, j'ai créé deux Datasets qui pointent vers le même compte de s
 Le premier Dataset contient un paramètre à entrer pour spécifier le dossier ou les fichiers à traiter.
 Le second Dataset ne contient pas de paramètre et est utilisé pour obtenir la liste des fichiers dans le dossier cible.
 
-#### Conception du Pipeline :
+### Conception du Pipeline :
 J'ai conçu un pipeline automatisé pour supprimer les anciens fichiers. Les étapes sont les suivantes :
 
 #### Activity Get Metadata :
