@@ -1,0 +1,9 @@
+{
+	"name": "ADFDeleteOldFiles",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6936642f-31e6-4419-949a-3b67dee772ac",
+		"tenantId": "a4daf7e2-12d0-4a70-a569-1935f56b87f8"
+	}
+}
